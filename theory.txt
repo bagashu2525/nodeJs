@@ -13,6 +13,7 @@ localhost-->host name
 /-->home route or end point
 
 * Express: frame work node js
+-->npm install express --save
 
 
 * Node.js is known for its non-blocking, event-driven architecture, which allows it to handle a large number of simultaneous connections efficiently.
