@@ -12,9 +12,33 @@ localhost-->host name
 3000-->port 
 /-->home route or end point
 
-* Express: frame work node js
--->npm install express --save
+* node_modules
+-->npm i / npm install
 
+* Express: frame work node js
+-->npm install express --save //we need not to write --save
+-->npm uninstall express
+
+* nodemon
+-->npm i -g nodemon //-g for global
+-->npm uninstall nodemon
+-->Nodemon is a lifesaver for Node.js developers! It's a command-line tool that streamlines the development process. Here's how it works:
+
+Automatic Restart: Nodemon watches your project directory for file changes.
+Whenever you make a change to a JavaScript file in your project, nodemon automatically restarts your Node.js application. 
+This eliminates the manual step of stopping and restarting your application every time you make a code change.
+
+Efficiency Booster: By automatically restarting your application, nodemon saves you tons of time during development.
+You can focus on writing code, testing changes quickly, and iterating rapidly.
+
+Seamless Workflow: Nodemon integrates smoothly into your development workflow. 
+Just replace the usual node command with nodemon when starting your Node.js application. Nodemon takes care of the rest.
 
 * Node.js is known for its non-blocking, event-driven architecture, which allows it to handle a large number of simultaneous connections efficiently.
 This architecture is primarily built around its single-threaded event loop and additional worker threads managed by the libuv library. 
+
+* Dev dependencies
+
+
+* package-lock.json
+-->store dependency tree
