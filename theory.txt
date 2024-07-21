@@ -1,0 +1,19 @@
+* npm facilitate for packages installation
+
+* for setup a node js project at first we have to run command 
+npm(node package manager) init -y
+
+* commands of npm
+-->npm init -y //this command will create a pakage.json file which contains all the information of our project,installed modules as dependencies etc.
+
+* Now, we have to create server in node js using builtin HTTP module 
+localhost:3000
+localhost-->host name
+3000-->port 
+/-->home route or end point
+
+* Express: frame work node js
+
+
+* Node.js is known for its non-blocking, event-driven architecture, which allows it to handle a large number of simultaneous connections efficiently.
+This architecture is primarily built around its single-threaded event loop and additional worker threads managed by the libuv library. 
